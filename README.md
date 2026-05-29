@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Arnav007-python
+- 👋 Hi, I’m @Arnav007
 - 👀 I’m interested in Data Science
-- 🌱 I’m currently learning UI/UX
+- 🌱 I’m currently learning Deep learning 
 - 💞️ I’m looking to collaborate on interships.
 - 📫 How to reach me by linkedin
 - 😄 Pronouns: he/him
