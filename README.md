@@ -1,6 +1,59 @@
 # 💫 About Me:
- 👋 Hi, I’m @Arnav007<br>👀 I’m interested in Data Science<br>🌱 I’m currently learning Deep learning<br>💞️ I’m looking to collaborate on interships.<br>😄 Pronouns: he/him<br>⚡ Fun fact: learning everyday
+ 
+# Hi there, I'm Arnav Mishra! 👋
 
+### Data Analyst | AI/ML Enthusiast | B.Tech in AI & Data Science
+I am an analytical and curiosity-driven B.Tech student specializing in **Artificial Intelligence and Data Science**[span_0](start_span)[span_0](end_span). I focus on building intelligent, data-driven solutions using Machine Learning, Deep Learning, NLP, and Computer Vision[span_1](start_span)[span_1](end_span). 
+
+- 📍 Based in Bhopal, India[span_2](start_span)[span_2](end_span)
+- 🎓 B.Tech in AI & DS at MITS Gwalior (Expected 2027)[span_3](start_span)[span_3](end_span)
+- 💼 Former Research Intern at Brain-Computing Lab, MANIT Bhopal[span_4](start_span)[span_4](end_span)
+- ✉️ Reach me at: arnav.am007@gmail.com[span_5](start_span)[span_5](end_span)
+
+---
+
+## 🛠️ Technical Skills
+
+- **Programming:** Python, SQL (MySQL), Java, C++, HTML[span_6](start_span)[span_6](end_span)
+- **AI/ML/DL:** TensorFlow, PyTorch, Scikit-learn, OpenCV, CNN Models[span_7](start_span)[span_7](end_span)
+- **Data Science:** Data Analysis, Data Visualization, Predictive Modeling, Feature Engineering[span_8](start_span)[span_8](end_span)
+- **Advanced Concepts:** Generative AI, Agentic AI, NLP, Computer Vision[span_9](start_span)[span_9](end_span)
+
+---
+
+## 🔬 Experience
+
+* **Research Intern** | *Brain-Computing Lab, MANIT Bhopal* (Jun 2025 - Aug 2025)[span_10](start_span)[span_10](end_span)
+  * Conducted physiological signal processing and analyzed EEG datasets for hand movement classification[span_11](start_span)[span_11](end_span).
+  * Implemented 1D Convolutional Neural Networks (CNNs) for deep learning-based signal classification[span_12](start_span)[span_12](end_span).
+* **Data Science Intern** | *Personifwy / IIT Roorkee E-cell* (Jun 2024 - Aug 2024)[span_13](start_span)[span_13](end_span)
+  * Developed predictive models and worked on projects including Hate Speech Detection and Credit EDA[span_14](start_span)[span_14](end_span).
+
+---
+
+## 🚀 Featured Projects
+
+* **1D CNN Hand Movement Classifier:** Built a 3-layer CNN model to classify real and imaginary hand movements using EEG data[span_15](start_span)[span_15](end_span).
+* **Crop Sure:** Developed an ML model recommending optimal fertilizers based on crop and soil data[span_16](start_span)[span_16](end_span).
+* **Hate Speech Detection:** Built an NLP-based classification model to identify offensive text content[span_17](start_span)[span_17](end_span).
+* **SMS Spam Segregator:** Created a text-preprocessing and machine learning spam classification system[span_18](start_span)[span_18](end_span).
+
+---
+
+## 📜 Certifications & Simulations
+
+* **Swayam NPTEL:** ELITE Certification in Introduction to LLMs[span_19](start_span)[span_19](end_span)
+* **OpenCV University:** OpenCV Bootcamp[span_20](start_span)[span_20](end_span)
+* **Tata Group (Forage):** Gen AI Data Analysis Job Simulation[span_21](start_span)[span_21](end_span)
+* **J.P. Morgan Chase & Co.:** Software Engineering Job Simulation[span_22](start_span)[span_22](end_span)
+* **British Airways (Forage):** Data Science Job Simulation[span_23](start_span)[span_23](end_span)
+
+---
+
+## 👥 Leadership
+* **Management Head** at Startup Cell, MITS Gwalior (2026-2027) – Recruited 50+ students and led technical/management teams of 15+ members[span_24](start_span)[span_24](end_span).
+
+⚡ *Fun fact: I'm deeply curious about how Agentic AI is transforming the way we interact with data!*[span_25](start_span)[span_25](end_span)
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/arnavmishraa_07) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Arnav Mishra) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:arnav.am007@gmail.com) 
