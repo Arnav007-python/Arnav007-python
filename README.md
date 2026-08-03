@@ -1,4 +1,4 @@
-# 💫 About M:
+# 💫 About Me:
  
 # Hi there, I'm Arnav Mishra! 👋
 
